@@ -1,0 +1,5 @@
+# Ignore virtual environment directory
+venv/
+
+# Ignore environment variable file located in the django_chatbot directory
+django_chatbot/.env
